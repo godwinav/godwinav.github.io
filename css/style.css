@@ -449,6 +449,7 @@ h3.m_2 {
 }
 .about_content {
 	padding: 1em 0 4em 0;
+	text-align: justify;
 }
 .about_content img {
 	padding: 0 20px 20px 0;
